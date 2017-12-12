@@ -1,4 +1,4 @@
-Programador 1: Gonzalo
+Programador 1: Retortillo
 Programador 2: Alejandro
 
 Programador 3: Carpio
