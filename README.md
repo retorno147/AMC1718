@@ -6,4 +6,6 @@ Subnormal
 
 
 **Repositorio de amc
-# carpeta .git --> no borrar
+# carpeta .git --> no borrar+
+
+Animalito deja de tocarme el proyecto...... WTF
